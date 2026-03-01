@@ -1,1 +1,1 @@
-# git-practise-Enver
+# Git Practice Layihəsi
